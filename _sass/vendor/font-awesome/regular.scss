@@ -6,10 +6,34 @@
 @import 'functions';
 @import 'variables';
 
-:root, :host {
+:root,
+:host {
   --#{$fa-css-prefix}-style-family-classic: '#{ $fa-style-family }';
   --#{$fa-css-prefix}-font-regular: normal 400 1em/1 '#{ $fa-style-family }';
 }
+
+/* latin */
+@font-face {
+  font-family: 'IBM Plex Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: url('#{$fa-font-path}/IBMPlexSans-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'IBM Plex Sans';
+  font-style: normal;
+  font-weight: 300;
+  src: url('#{$fa-font-path}/IBMPlexSans-Light.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'IBM Plex Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: url('#{$fa-font-path}/IBMPlexSans-Bold.ttf') format('truetype');
+}
+
 
 @font-face {
   font-family: 'Font Awesome 6 Free';
@@ -17,7 +41,7 @@
   font-weight: 400;
   font-display: $fa-font-display;
   src: url('#{$fa-font-path}/fa-regular-400.woff2') format('woff2'),
-    url('#{$fa-font-path}/fa-regular-400.ttf') format('truetype');
+  url('#{$fa-font-path}/fa-regular-400.ttf') format('truetype');
 }
 
 .far,

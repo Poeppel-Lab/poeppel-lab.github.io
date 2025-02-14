@@ -6,7 +6,8 @@
 @import 'functions';
 @import 'variables';
 
-:root, :host {
+:root,
+:host {
   --#{$fa-css-prefix}-style-family-classic: '#{ $fa-style-family }';
   --#{$fa-css-prefix}-font-solid: normal 900 1em/1 '#{ $fa-style-family }';
 }
@@ -17,8 +18,32 @@
   font-weight: 900;
   font-display: $fa-font-display;
   src: url('#{$fa-font-path}/fa-solid-900.woff2') format('woff2'),
-    url('#{$fa-font-path}/fa-solid-900.ttf') format('truetype');
+  url('#{$fa-font-path}/fa-solid-900.ttf') format('truetype');
 }
+
+/* latin */
+@font-face {
+  font-family: 'IBM Plex Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: url('#{$fa-font-path}/IBMPlexSans-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'IBM Plex Sans';
+  font-style: normal;
+  font-weight: 300;
+  src: url('#{$fa-font-path}/IBMPlexSans-Light.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'IBM Plex Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: url('#{$fa-font-path}/IBMPlexSans-Bold.ttf') format('truetype');
+}
+
+
 
 .fas,
 .#{$fa-css-prefix}-solid {
