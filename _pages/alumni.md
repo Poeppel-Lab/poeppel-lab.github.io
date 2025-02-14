@@ -1,5 +1,5 @@
 ---
-permalink: /Alumni/
+permalink: /alumni/
 title: "Alumni"
 author_profile: true
 redirect_from: 
