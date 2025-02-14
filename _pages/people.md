@@ -1,9 +1,9 @@
 ---
-permalink: /people/
-title: "People"
+permalink: /members/
+title: "Members"
 author_profile: true
 redirect_from: 
-  - /people.html
+  - /members.html
 ---
 
 
