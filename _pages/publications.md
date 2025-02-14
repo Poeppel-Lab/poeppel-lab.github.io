@@ -7,6 +7,7 @@ redirect_from:
 ---
 <div class="wordwrap">You can also find the list of publications on <a href="https://scholar.google.com/citations?user=9EyT1mYAAAAJ">Google Scholar</a>.</div>
 
+
 ## Books and Special Issues edited
 - Poeppel, D. (ed.), Special issue: Brain and Speech. *Cognitive Science*. 21 (5), 2001.
 - Hickok, G. and Poeppel, D. (eds.), Special issue: Towards a new functional anatomy of language. *Cognition* 92 (1-2), May-June 2004.
@@ -15,6 +16,8 @@ redirect_from:
 - Poeppel, D., Overath, T. Popper, A. & Fay, R. (2012). The Human Auditory Cortex. *Springer Handbook of Auditory Research.* New York: Springer.
 - Poeppel D, Gazzaniga M, Mangun GR Eds. (2020).* The Cognitive Neurosciences VI*. Cambridge MA, MIT Press.
 - Poeppel D & Schreiner C (in planning). *The Auditory Cortex*. New York: Springer.
+
+
 ## Chapters in books
 1. Phillips, C., Marantz, A., McGinnis, M., Pesetsky, D., Wexler, K., Yellin, E., Poeppel, D., Roberts, T.P.L., Rowley, H. (1995). Brain mechanisms of speech perception: A preliminary report. *MIT Working Papers in Linguistics*.
 2. Poeppel, D. (1996). What genetics can and can’t learn from PET studies of phonological processing. In Towards a Genetics of Language, Mabel Rice (ed.), New York: Lawrence Erlbaum.
@@ -54,6 +57,7 @@ redirect_from:
 36. Poeppel D & Sun Y (2022). Neural encoding of speech and word forms. In Papafragou A, Gleitman L, Trueswell J (Eds), Oxford Handbook of the Mental Lexicon.
 37. Larrouy-Maestri P, Poeppel D, Pfordresher P (2022). Pitch units in music and speech prosody. In Scharinger M & Wiese R (Eds.), How language speaks to music: Prosody from a cross-domain perspective. DeGruyter.
 38. Tavano, A., Rimmele, J.M., Michalareas, G., Poeppel, D. (2023). Neural Oscillations in EEG and MEG. In: Grimaldi, M., Brattico, E., Shtyrov, Y. (eds) Language Electrified. Neuromethods, vol 202. Humana, New York, NY.
+
 
 ## Articles in Refereed Journals
 
