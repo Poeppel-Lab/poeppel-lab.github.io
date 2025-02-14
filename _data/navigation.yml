@@ -15,5 +15,8 @@ main:
   - title: "Alumni"
     url: /alumni/
 
+  - title: "Publications"
+    url: /publications/
+
   - title: "Research"
     url: /research/
