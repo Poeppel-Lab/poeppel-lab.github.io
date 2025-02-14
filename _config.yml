@@ -13,7 +13,7 @@ title                    : "Poeppel Lab"
 title_separator          : "-"
 name                     : &name "Poeppel Lab"
 description              : &description "personal description"
-url                      : https://poeppel-lab.github.io/
+url                      : "https://poeppel-lab.github.io/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
