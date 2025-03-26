@@ -13,7 +13,8 @@ redirect_from:
 <table>
 
 <tr>
-<td style="width:15%">
+<td style="width:20%">
+<img src="{{ base_path }}/images/p_david.jpg">
 </td>
 <td> <b>David Poeppel</b> <br>
 Max Planck Institute for Empirical Aesthetics<br>
