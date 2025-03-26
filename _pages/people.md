@@ -65,7 +65,7 @@ New York University<br>
   </td>
   <td> <b>Berfin Baştuğ</b> – PhD candidate @ ESI 2023– <br>
   <tt>berfin.bastug (at) esi-frankfurt.de</tt><br>
-  <a href='https://scholar.google.com/citations?=user=KPsr5qgAAAAJ'><i class='ai ai-google-scholar ai-2x'></i></a>
+  <a href='https://scholar.google.com/citations?user=KPsr5qgAAAAJ'><i class='ai ai-google-scholar ai-2x'></i></a>
     </td>
 </tr>
 <tr>
