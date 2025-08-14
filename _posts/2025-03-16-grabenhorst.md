@@ -1,5 +1,5 @@
 ---
-title: "New paper!"
+title: "New paper! (Grabenhorst et al., Nat Comm, 2025)"
 permalink: /posts/2025/paper_grabenhorst
 date: 2025-02-24
 citation: 'Grabenhorst M, Poeppel D, Michalareas G (2025). Neural signatures of temporal anticipation in human cortex represent event probability density. Nature Communications.'

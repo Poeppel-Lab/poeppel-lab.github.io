@@ -1,5 +1,5 @@
 ---
-title: "New paper!"
+title: "New paper! (Chang et al., JNeuro, 2025)"
 permalink: /posts/2025/paper_chang_jneuro
 date: 2025-01-08
 venue: 'Journal of Neuroscience'

@@ -1,5 +1,5 @@
 ---
-title: "New paper!"
+title: "New paper! (Oderbolz et al., Neurosci & Biobehav Rev, 2025)"
 permalink: /posts/2025/paper_oderbolz_ast
 date: 2025-02-24
 venue: 'Neuroscience & Biobehavioral Reviews'

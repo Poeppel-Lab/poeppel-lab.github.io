@@ -1,5 +1,5 @@
 ---
-title: 'New preprint!'
+title: 'New preprint! (Donhauser & Klein, 2025)'
 date: 2025-02-06
 permalink: /posts/2025/donhauser_mental_representations/
 citation: 'Peter W. Donhauser and Denise Klein (2025): Modeling individual mental representations underlying similarity judgments.' 

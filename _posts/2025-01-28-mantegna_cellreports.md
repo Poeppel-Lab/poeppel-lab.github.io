@@ -1,5 +1,5 @@
 ---
-title: "New paper!"
+title: "New paper! (Mantegna et al., Cell Reports, 2025)"
 permalink: /posts/2025/paper_mantegna_cellreports
 date: 2025-01-28
 venue: 'Cell Reports'
