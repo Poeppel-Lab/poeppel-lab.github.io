@@ -1,5 +1,5 @@
 ---
-title: "New paper! (Moore*, Donhauser* et al., PNAS, 2025)"
+title: "New paper! (Moore\*, Donhauser\* et al., PNAS, 2025)"
 permalink: /posts/2025/paper_moore_donhauser
 date: 2025-08-19
 citation: 'Moore* C, Donhauser* PW, Klein D, Byers-Heinlein K (2025). Efficient neural encoding as revealed by bilingualism. Proceedings of the National Academy of Sciences of the United States of America.'
