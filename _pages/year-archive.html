@@ -11,7 +11,7 @@ redirect_from:
 
 <ul style="font-size: 0.8em"> 
 {% for post in site.posts %}
-<li>{{ post.date | date: '%Y-%m' }}: <a href= {{post.url}}><b>{{ post.title }}</b></a></li>
+<li>{{ post.date | date: '%Y-%m' }}: <a href= "#{{ post.date | date: '%Y-%m' }}"><b>{{ post.title }}</b></a></li>
 {% endfor %}
 </ul>
 
@@ -19,7 +19,7 @@ redirect_from:
 {% for post in site.posts %}
   {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
   {% if year != written_year %}
-    <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
+    <h2 class="archive__subtitle">{{ year }}</h2>
     {% capture written_year %}{{ year }}{% endcapture %}
   {% endif %}
   {% include archive-single.html %}
