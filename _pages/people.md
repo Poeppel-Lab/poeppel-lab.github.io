@@ -48,6 +48,7 @@ New York University<br>
   <td> <b>Phoebe Chen</b> – PhD candidate @ NYU 2020– <br>
   <tt>hc2896 (at) nyu.edu</tt><br>
   <a href='https://scholar.google.com/citations?user=YItDCZQAAAAJ'><i class='ai ai-google-scholar ai-2x'></i></a>
+  <a href='https://phoebechen.info'><i class='fa fa-house fa-xl' style='vertical-align: 0.15em !important;'></i></a>
     </td>
 </tr>
 <tr>
