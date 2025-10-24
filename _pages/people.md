@@ -79,6 +79,15 @@ New York University<br>
   <a href='https://scholar.google.com/citations?user=WOD5SBMAAAAJ'><i class='ai ai-google-scholar ai-2x'></i></a>
     </td>
 </tr>
+<tr>
+  <td style='width:15%'>
+  <!-- <img> -->
+  </td>
+  <td> <b>Chenghao Zhou</b> – PhD candidate @ NYU 2025– <br>
+  <tt>chenghao.zhou (at) nyu.edu</tt><br>
+  <a href='https://scholar.google.com/citations?user=RTCfEgwAAAAJ'><i class='ai ai-google-scholar ai-2x'></i></a>
+    </td>
+</tr>
 
 </table>
 
