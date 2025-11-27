@@ -1,5 +1,5 @@
 ---
-title: "New paper! (Bastug, et al., Cognition, 2026)"
+title: "New paper! (Bastug et al., Cognition, 2026)"
 permalink: /posts/2025/bastug_cognition
 date: 2025-11-14
 citation: 'Bastug D, Rajendran VG, Bianco R, Agus T, Chait M, Pressnitzer D (2026). Memory for repeated auditory textures. Cognition.'
