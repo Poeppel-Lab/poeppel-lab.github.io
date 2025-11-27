@@ -1,7 +1,7 @@
 ---
 title: "New paper! (Raccah, et al., iScience, 2025)"
 permalink: /posts/2025/raccah_iscience
-date: 2025-11-14
+date: 2025-11-21
 citation: 'Raccah O, Seltenreich M, Pelofi C, Lerdahl F, Poeppel D (2025). Geometric properties of musical scales constitute a representational primitive in melodic processing. iScience.'
 ---
 
