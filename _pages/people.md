@@ -122,6 +122,7 @@ New York University<br>
   <td> <b>Cas Coopmans</b> – Postdoc @ NYU 2025– <br>
   <tt>cc9248 (at) nyu.edu</tt><br>
   <a href='https://scholar.google.com/citations?user=sgktnzcAAAAJ'><i class='ai ai-google-scholar ai-2x'></i></a>
+  <a href='https://cascoopmans.github.io'><i class='fa fa-house fa-xl' style='vertical-align: 0.15em !important;'></i></a>
     </td>
 </tr>
 <tr>
