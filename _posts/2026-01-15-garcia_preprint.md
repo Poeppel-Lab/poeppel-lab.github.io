@@ -1,8 +1,8 @@
 ---
-title: "New preprint! (Garcia et al., 2026)"
+title: "New preprint! (García-Rosales et al., 2026)"
 permalink: /posts/2026/garcia_biorxiv
 date: 2026-01-15
-citation: 'Garcia-Rosales F, Sotomayor-Gomez B, Poeppel D, Hechavarria JC (2026). Vocal production differentially affects fast-and broad-spiking neurons in auditory cortex. bioRxiv.'
+citation: 'García-Rosales F, Sotomayor-Gomez B, Poeppel D, Hechavarria JC (2026). Vocal production differentially affects fast-and broad-spiking neurons in auditory cortex. bioRxiv.'
 ---
 
 New preprint from Francisco!
