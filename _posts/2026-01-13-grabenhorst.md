@@ -1,5 +1,5 @@
 ---
-title: "New paper! (Grabenhorst et al.,PNAS, 2026)"
+title: "New paper! (Grabenhorst et al., PNAS, 2026)"
 permalink: /posts/2026/paper_grabenhorst
 date: 2026-01-13
 citation: 'Grabenhorst M, Poeppel D, Michalareas G (2026). The anticipation of imminent events is time-scale invariant. Proceedings of the National Academy of Sciences.'
