@@ -79,6 +79,8 @@ author:
 publication_category:
   book:
     title: 'Books and Special Issues edited'
+  preprint:
+    title: 'Recent Preprints'
   article:
     title: 'Articles in Refereed Journals'    
   chapter:

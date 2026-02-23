@@ -44,8 +44,8 @@ author_profile: true
       {% capture post_year %}{{ post.date | date: '%Y' }}{% endcapture %}
       {% if post_year == year %}
         {% unless title_shown2 %}
-        <!-- show year only if category is not books -->
-        {% if category[0] != "book" %}
+        <!-- show year only if category is not books or preprint-->
+        {% if category[0] != "book" and category[0] != "preprint" %}
         <h3>{{ year }}</h3>
         {% endif %}
         

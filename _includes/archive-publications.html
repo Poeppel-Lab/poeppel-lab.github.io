@@ -21,6 +21,8 @@
         <ol><li value="{{ post.number }}">{{ post.authors }} ({{ post.year}}). {{ post.title }}. <i>In: {{ post.editor }}, {{ post.venue }}</i>.</li></ol>   
         {% elsif post.category == "book" %}
         <ul><li>{{ post.authors }} ({{ post.year}}). {{ post.title }}.  <i>{{ post.venue }}</i>.</li></ul>
+        {% elsif post.category == "preprint" %}
+        <ul><li>{{ post.authors }} ({{ post.year}}). {{ post.title }}. <i>{{ post.venue }}</i>.</li></ul>
         {% endif %}
 
         {% if post.excerpt and site.read_more != 'enabled' %}
